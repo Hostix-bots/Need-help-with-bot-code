@@ -10,4 +10,4 @@ for i in range(len(cogs)):
     cogs[i].setup(client)
 
 
-client.run("OTgzNzk3ODkyMjEwODg0NjM4.GBDshm.L4lbRKInYtgS0aZZ-sp1Ws3xFjHC_YMajbVOmU")
+client.run("my_token")
